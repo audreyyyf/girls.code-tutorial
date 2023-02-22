@@ -1,5 +1,5 @@
 body {
-    background-color: #EDEDED;
+    background-color: #B980CA;
 }
 
 .bgimg {
@@ -21,8 +21,8 @@ a:hover{
 .accbtn {
     border-radius: 5px;
     border-style: none;
-    background-color: darkblue;
-    color: #EDEDED;
+    color: #EDEDED;  
+    background-color: #C61871;
     opacity: 0.9;
     font-size: 20px;
     transition: 0.3s;
@@ -37,7 +37,7 @@ a:hover{
 .regbtn {
     border-radius: 5px;
     border-style: none;
-    background-color: #1a1a1a;
+    background-color: #C61871;
     color: #EDEDED;
     padding: 5px 10px;
     opacity: 0.9;
